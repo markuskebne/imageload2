@@ -1,0 +1,1598 @@
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/3] --> d_loss: 15.738, g_loss:-386.547, g_recon_loss:-386.547
+INFO:root:Epoch:[0]-[1/3] --> d_loss: 4.328, g_loss:-14051.591, g_recon_loss:-14051.591
+INFO:root:Epoch:[0]-[2/3] --> d_loss: 8.424, g_loss:-69613.516, g_recon_loss:-69613.516
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/3] --> d_loss: 14.298, g_loss:-137.804, g_recon_loss:-137.804
+INFO:root:Epoch:[0]-[1/3] --> d_loss: 0.897, g_loss:-7598.783, g_recon_loss:-7598.783
+INFO:root:Epoch:[0]-[2/3] --> d_loss: 9.238, g_loss:-46076.410, g_recon_loss:-46076.410
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/3] --> d_loss: 14.986, g_loss:-841.301, g_recon_loss:-841.301
+INFO:root:Epoch:[0]-[1/3] --> d_loss: 4.922, g_loss:-24294.738, g_recon_loss:-24294.738
+INFO:root:Epoch:[0]-[2/3] --> d_loss: 5.860, g_loss:-112635.391, g_recon_loss:-112635.391
+INFO:root:Epoch:[1]-[0/3] --> d_loss: 0.312, g_loss:-301306.094, g_recon_loss:-301306.094
+INFO:root:Epoch:[1]-[1/3] --> d_loss: 0.101, g_loss:-630831.625, g_recon_loss:-630831.625
+INFO:root:Epoch:[1]-[2/3] --> d_loss: 0.063, g_loss:-1138191.625, g_recon_loss:-1138191.625
+INFO:root:Epoch:[2]-[0/3] --> d_loss: 0.043, g_loss:-1864081.000, g_recon_loss:-1864081.000
+INFO:root:Epoch:[2]-[1/3] --> d_loss: 0.030, g_loss:-2853395.750, g_recon_loss:-2853395.750
+INFO:root:Epoch:[2]-[2/3] --> d_loss: 0.022, g_loss:-4152457.000, g_recon_loss:-4152457.000
+INFO:root:Epoch:[3]-[0/3] --> d_loss: 0.017, g_loss:-5820498.500, g_recon_loss:-5820498.500
+INFO:root:Epoch:[3]-[1/3] --> d_loss: 0.013, g_loss:-7917086.000, g_recon_loss:-7917086.000
+INFO:root:Epoch:[3]-[2/3] --> d_loss: 0.010, g_loss:-10495542.000, g_recon_loss:-10495542.000
+INFO:root:Epoch:[4]-[0/3] --> d_loss: 0.008, g_loss:-13642426.000, g_recon_loss:-13642426.000
+INFO:root:Epoch:[4]-[1/3] --> d_loss: 0.006, g_loss:-17433992.000, g_recon_loss:-17433992.000
+INFO:root:Epoch:[4]-[2/3] --> d_loss: 0.005, g_loss:-21926730.000, g_recon_loss:-21926730.000
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 119.213, g_loss:-171.937, g_recon_loss:-171.937
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 22.213, g_loss:-21155.928, g_recon_loss:-21155.928
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 0.000, g_loss:-102344.531, g_recon_loss:-102344.531
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 0.000, g_loss:-283927.281, g_recon_loss:-283927.281
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 0.000, g_loss:-609900.500, g_recon_loss:-609900.500
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 0.000, g_loss:-1141840.875, g_recon_loss:-1141840.875
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 0.000, g_loss:-1881947.375, g_recon_loss:-1881947.375
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 0.000, g_loss:-2960925.500, g_recon_loss:-2960925.500
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 0.000, g_loss:-4312060.500, g_recon_loss:-4312060.500
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 0.000, g_loss:-6245633.500, g_recon_loss:-6245633.500
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 0.000, g_loss:-8778875.000, g_recon_loss:-8778875.000
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 0.000, g_loss:-11545222.000, g_recon_loss:-11545222.000
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 0.000, g_loss:-15322422.000, g_recon_loss:-15322422.000
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 0.000, g_loss:-19504808.000, g_recon_loss:-19504808.000
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 0.000, g_loss:-25210510.000, g_recon_loss:-25210510.000
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 0.000, g_loss:-32161822.000, g_recon_loss:-32161822.000
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 0.000, g_loss:-38845608.000, g_recon_loss:-38845608.000
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:-48082824.000, g_recon_loss:-48082824.000
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:-57641168.000, g_recon_loss:-57641168.000
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 0.000, g_loss:-70600512.000, g_recon_loss:-70600512.000
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 0.000, g_loss:-86000104.000, g_recon_loss:-86000104.000
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 0.000, g_loss:-99300720.000, g_recon_loss:-99300720.000
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 0.000, g_loss:-118311648.000, g_recon_loss:-118311648.000
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 0.000, g_loss:-136859248.000, g_recon_loss:-136859248.000
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:-162174208.000, g_recon_loss:-162174208.000
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0.0, 255.0]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/24] --> d_loss: 181.818, g_loss:-188.410, g_recon_loss:-188.410
+INFO:root:Epoch:[0]-[1/24] --> d_loss: 15.931, g_loss:-14626.679, g_recon_loss:-14626.679
+INFO:root:Epoch:[0]-[2/24] --> d_loss: 0.000, g_loss:-68353.391, g_recon_loss:-68353.391
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/24] --> d_loss: 128.643, g_loss:1.346, g_recon_loss:1.346
+INFO:root:Epoch:[0]-[1/24] --> d_loss: 705.591, g_loss:2.880, g_recon_loss:2.880
+INFO:root:Epoch:[0]-[2/24] --> d_loss: 177.066, g_loss:0.824, g_recon_loss:0.824
+INFO:root:Epoch:[0]-[3/24] --> d_loss: 199.889, g_loss:0.399, g_recon_loss:0.399
+INFO:root:Epoch:[0]-[4/24] --> d_loss: 0.000, g_loss:0.269, g_recon_loss:0.269
+INFO:root:Epoch:[0]-[5/24] --> d_loss: 0.369, g_loss:0.188, g_recon_loss:0.188
+INFO:root:Epoch:[0]-[6/24] --> d_loss: 0.583, g_loss:0.121, g_recon_loss:0.121
+INFO:root:Epoch:[0]-[7/24] --> d_loss: 0.000, g_loss:0.101, g_recon_loss:0.101
+INFO:root:Epoch:[0]-[8/24] --> d_loss: 0.277, g_loss:0.096, g_recon_loss:0.096
+INFO:root:Epoch:[0]-[9/24] --> d_loss: 113.431, g_loss:5.445, g_recon_loss:5.445
+INFO:root:Epoch:[0]-[10/24] --> d_loss: 363.834, g_loss:26.298, g_recon_loss:26.298
+INFO:root:Epoch:[0]-[11/24] --> d_loss: 26.642, g_loss:0.237, g_recon_loss:0.237
+INFO:root:Epoch:[0]-[12/24] --> d_loss: 1.158, g_loss:0.222, g_recon_loss:0.222
+INFO:root:Epoch:[0]-[13/24] --> d_loss: 0.000, g_loss:0.261, g_recon_loss:0.261
+INFO:root:Epoch:[0]-[14/24] --> d_loss: 0.000, g_loss:0.193, g_recon_loss:0.193
+INFO:root:Epoch:[0]-[15/24] --> d_loss: 4.274, g_loss:0.228, g_recon_loss:0.228
+INFO:root:Epoch:[0]-[16/24] --> d_loss: 0.000, g_loss:0.168, g_recon_loss:0.168
+INFO:root:Epoch:[0]-[17/24] --> d_loss: 0.000, g_loss:0.143, g_recon_loss:0.143
+INFO:root:Epoch:[0]-[18/24] --> d_loss: 0.000, g_loss:0.204, g_recon_loss:0.204
+INFO:root:Epoch:[0]-[19/24] --> d_loss: 0.000, g_loss:0.126, g_recon_loss:0.126
+INFO:root:Epoch:[0]-[20/24] --> d_loss: 0.000, g_loss:0.193, g_recon_loss:0.193
+INFO:root:Epoch:[0]-[21/24] --> d_loss: 0.407, g_loss:0.697, g_recon_loss:0.697
+INFO:root:Epoch:[0]-[22/24] --> d_loss: 97.275, g_loss:8.221, g_recon_loss:8.221
+INFO:root:Epoch:[0]-[23/24] --> d_loss: 207.137, g_loss:0.812, g_recon_loss:0.812
+INFO:root:Epoch:[1]-[0/24] --> d_loss: 0.000, g_loss:0.418, g_recon_loss:0.418
+INFO:root:Epoch:[1]-[1/24] --> d_loss: 0.000, g_loss:0.527, g_recon_loss:0.527
+INFO:root:Epoch:[1]-[2/24] --> d_loss: 0.000, g_loss:0.319, g_recon_loss:0.319
+INFO:root:Epoch:[1]-[3/24] --> d_loss: 0.502, g_loss:0.259, g_recon_loss:0.259
+INFO:root:Epoch:[1]-[4/24] --> d_loss: 0.000, g_loss:0.349, g_recon_loss:0.349
+INFO:root:Epoch:[1]-[5/24] --> d_loss: 0.000, g_loss:0.212, g_recon_loss:0.212
+INFO:root:Epoch:[1]-[6/24] --> d_loss: 0.000, g_loss:0.166, g_recon_loss:0.166
+INFO:root:Epoch:[1]-[7/24] --> d_loss: 0.000, g_loss:0.247, g_recon_loss:0.247
+INFO:root:Epoch:[1]-[8/24] --> d_loss: 0.000, g_loss:0.136, g_recon_loss:0.136
+INFO:root:Epoch:[1]-[9/24] --> d_loss: 0.000, g_loss:0.115, g_recon_loss:0.115
+INFO:root:Epoch:[1]-[10/24] --> d_loss: 0.000, g_loss:0.182, g_recon_loss:0.182
+INFO:root:Epoch:[1]-[11/24] --> d_loss: 0.000, g_loss:0.124, g_recon_loss:0.124
+INFO:root:Epoch:[1]-[12/24] --> d_loss: 4.398, g_loss:1.579, g_recon_loss:1.579
+INFO:root:Epoch:[1]-[13/24] --> d_loss: 391.901, g_loss:45.222, g_recon_loss:45.222
+INFO:root:Epoch:[1]-[14/24] --> d_loss: 263.201, g_loss:1.797, g_recon_loss:1.797
+INFO:root:Epoch:[1]-[15/24] --> d_loss: 0.000, g_loss:0.632, g_recon_loss:0.632
+INFO:root:Epoch:[1]-[16/24] --> d_loss: 180.470, g_loss:381.741, g_recon_loss:381.741
+INFO:root:Epoch:[1]-[17/24] --> d_loss: 88.418, g_loss:0.846, g_recon_loss:0.846
+INFO:root:Epoch:[1]-[18/24] --> d_loss: 0.000, g_loss:0.486, g_recon_loss:0.486
+INFO:root:Epoch:[1]-[19/24] --> d_loss: 0.000, g_loss:0.316, g_recon_loss:0.316
+INFO:root:Epoch:[1]-[20/24] --> d_loss: 0.000, g_loss:0.236, g_recon_loss:0.236
+INFO:root:Epoch:[1]-[21/24] --> d_loss: 0.000, g_loss:0.191, g_recon_loss:0.191
+INFO:root:Epoch:[1]-[22/24] --> d_loss: 6.136, g_loss:0.161, g_recon_loss:0.161
+INFO:root:Epoch:[1]-[23/24] --> d_loss: 0.000, g_loss:0.146, g_recon_loss:0.146
+INFO:root:Epoch:[2]-[0/24] --> d_loss: 0.000, g_loss:0.142, g_recon_loss:0.142
+INFO:root:Epoch:[2]-[1/24] --> d_loss: 0.000, g_loss:0.141, g_recon_loss:0.141
+INFO:root:Epoch:[2]-[2/24] --> d_loss: 0.000, g_loss:0.131, g_recon_loss:0.131
+INFO:root:Epoch:[2]-[3/24] --> d_loss: 0.000, g_loss:0.133, g_recon_loss:0.133
+INFO:root:Epoch:[2]-[4/24] --> d_loss: 2.132, g_loss:343.444, g_recon_loss:343.444
+INFO:root:Epoch:[2]-[5/24] --> d_loss: 0.000, g_loss:0.202, g_recon_loss:0.202
+INFO:root:Epoch:[2]-[6/24] --> d_loss: 0.000, g_loss:0.141, g_recon_loss:0.141
+INFO:root:Epoch:[2]-[7/24] --> d_loss: 0.000, g_loss:0.129, g_recon_loss:0.129
+INFO:root:Epoch:[2]-[8/24] --> d_loss: 0.217, g_loss:0.131, g_recon_loss:0.131
+INFO:root:Epoch:[2]-[9/24] --> d_loss: 0.000, g_loss:1.019, g_recon_loss:1.019
+INFO:root:Epoch:[2]-[10/24] --> d_loss: 21.208, g_loss:2.035, g_recon_loss:2.035
+INFO:root:Epoch:[2]-[11/24] --> d_loss: 286.157, g_loss:0.698, g_recon_loss:0.698
+INFO:root:Epoch:[2]-[12/24] --> d_loss: 39.893, g_loss:0.796, g_recon_loss:0.796
+INFO:root:Epoch:[2]-[13/24] --> d_loss: 12.513, g_loss:0.450, g_recon_loss:0.450
+INFO:root:Epoch:[2]-[14/24] --> d_loss: 0.000, g_loss:0.342, g_recon_loss:0.342
+INFO:root:Epoch:[2]-[15/24] --> d_loss: 0.000, g_loss:0.226, g_recon_loss:0.226
+INFO:root:Epoch:[2]-[16/24] --> d_loss: 0.000, g_loss:0.254, g_recon_loss:0.254
+INFO:root:Epoch:[2]-[17/24] --> d_loss: 0.000, g_loss:0.182, g_recon_loss:0.182
+INFO:root:Epoch:[2]-[18/24] --> d_loss: 0.000, g_loss:0.328, g_recon_loss:0.328
+INFO:root:Epoch:[2]-[19/24] --> d_loss: 0.000, g_loss:0.175, g_recon_loss:0.175
+INFO:root:Epoch:[2]-[20/24] --> d_loss: 0.000, g_loss:0.146, g_recon_loss:0.146
+INFO:root:Epoch:[2]-[21/24] --> d_loss: 0.000, g_loss:0.179, g_recon_loss:0.179
+INFO:root:Epoch:[2]-[22/24] --> d_loss: 0.000, g_loss:0.125, g_recon_loss:0.125
+INFO:root:Epoch:[2]-[23/24] --> d_loss: 0.000, g_loss:0.157, g_recon_loss:0.157
+INFO:root:Epoch:[3]-[0/24] --> d_loss: 0.000, g_loss:0.257, g_recon_loss:0.257
+INFO:root:Epoch:[3]-[1/24] --> d_loss: 0.000, g_loss:0.130, g_recon_loss:0.130
+INFO:root:Epoch:[3]-[2/24] --> d_loss: 0.000, g_loss:0.100, g_recon_loss:0.100
+INFO:root:Epoch:[3]-[3/24] --> d_loss: 0.000, g_loss:0.109, g_recon_loss:0.109
+INFO:root:Epoch:[3]-[4/24] --> d_loss: 0.000, g_loss:0.224, g_recon_loss:0.224
+INFO:root:Epoch:[3]-[5/24] --> d_loss: 0.000, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[3]-[6/24] --> d_loss: 0.000, g_loss:0.090, g_recon_loss:0.090
+INFO:root:Epoch:[3]-[7/24] --> d_loss: 0.000, g_loss:0.100, g_recon_loss:0.100
+INFO:root:Epoch:[3]-[8/24] --> d_loss: 0.000, g_loss:0.084, g_recon_loss:0.084
+INFO:root:Epoch:[3]-[9/24] --> d_loss: 0.000, g_loss:0.091, g_recon_loss:0.091
+INFO:root:Epoch:[3]-[10/24] --> d_loss: 0.000, g_loss:0.092, g_recon_loss:0.092
+INFO:root:Epoch:[3]-[11/24] --> d_loss: 0.000, g_loss:0.089, g_recon_loss:0.089
+INFO:root:Epoch:[3]-[12/24] --> d_loss: 0.000, g_loss:0.175, g_recon_loss:0.175
+INFO:root:Epoch:[3]-[13/24] --> d_loss: 0.000, g_loss:0.498, g_recon_loss:0.498
+INFO:root:Epoch:[3]-[14/24] --> d_loss: 0.000, g_loss:0.220, g_recon_loss:0.220
+INFO:root:Epoch:[3]-[15/24] --> d_loss: 0.001, g_loss:0.156, g_recon_loss:0.156
+INFO:root:Epoch:[3]-[16/24] --> d_loss: 0.000, g_loss:0.173, g_recon_loss:0.173
+INFO:root:Epoch:[3]-[17/24] --> d_loss: 0.000, g_loss:0.159, g_recon_loss:0.159
+INFO:root:Epoch:[3]-[18/24] --> d_loss: 0.000, g_loss:0.142, g_recon_loss:0.142
+INFO:root:Epoch:[3]-[19/24] --> d_loss: 0.000, g_loss:0.127, g_recon_loss:0.127
+INFO:root:Epoch:[3]-[20/24] --> d_loss: 0.000, g_loss:0.115, g_recon_loss:0.115
+INFO:root:Epoch:[3]-[21/24] --> d_loss: 0.000, g_loss:0.107, g_recon_loss:0.107
+INFO:root:Epoch:[3]-[22/24] --> d_loss: 0.000, g_loss:0.103, g_recon_loss:0.103
+INFO:root:Epoch:[3]-[23/24] --> d_loss: 0.000, g_loss:0.107, g_recon_loss:0.107
+INFO:root:Epoch:[4]-[0/24] --> d_loss: 0.000, g_loss:0.109, g_recon_loss:0.109
+INFO:root:Epoch:[4]-[1/24] --> d_loss: 0.000, g_loss:0.101, g_recon_loss:0.101
+INFO:root:Epoch:[4]-[2/24] --> d_loss: 0.000, g_loss:0.093, g_recon_loss:0.093
+INFO:root:Epoch:[4]-[3/24] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[4]-[4/24] --> d_loss: 0.000, g_loss:0.089, g_recon_loss:0.089
+INFO:root:Epoch:[4]-[5/24] --> d_loss: 0.000, g_loss:0.089, g_recon_loss:0.089
+INFO:root:Epoch:[4]-[6/24] --> d_loss: 0.000, g_loss:0.090, g_recon_loss:0.090
+INFO:root:Epoch:[4]-[7/24] --> d_loss: 0.000, g_loss:0.082, g_recon_loss:0.082
+INFO:root:Epoch:[4]-[8/24] --> d_loss: 0.000, g_loss:0.081, g_recon_loss:0.081
+INFO:root:Epoch:[4]-[9/24] --> d_loss: 0.000, g_loss:0.079, g_recon_loss:0.079
+INFO:root:Epoch:[4]-[10/24] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[4]-[11/24] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[4]-[12/24] --> d_loss: 0.000, g_loss:0.079, g_recon_loss:0.079
+INFO:root:Epoch:[4]-[13/24] --> d_loss: 0.000, g_loss:0.077, g_recon_loss:0.077
+INFO:root:Epoch:[4]-[14/24] --> d_loss: 0.000, g_loss:0.074, g_recon_loss:0.074
+INFO:root:Epoch:[4]-[15/24] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[4]-[16/24] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[4]-[17/24] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[4]-[18/24] --> d_loss: 0.000, g_loss:0.359, g_recon_loss:0.359
+INFO:root:Epoch:[4]-[19/24] --> d_loss: 23.033, g_loss:1.497, g_recon_loss:1.497
+INFO:root:Epoch:[4]-[20/24] --> d_loss: 0.000, g_loss:0.474, g_recon_loss:0.474
+INFO:root:Epoch:[4]-[21/24] --> d_loss: 0.000, g_loss:2.122, g_recon_loss:2.122
+INFO:root:Epoch:[4]-[22/24] --> d_loss: 239.775, g_loss:1.387, g_recon_loss:1.387
+INFO:root:Epoch:[4]-[23/24] --> d_loss: 185.949, g_loss:0.433, g_recon_loss:0.433
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/10] --> d_loss: 69.177, g_loss:30.860, g_recon_loss:30.860
+INFO:root:Epoch:[0]-[1/10] --> d_loss: 159.651, g_loss:0.510, g_recon_loss:0.510
+INFO:root:Epoch:[0]-[2/10] --> d_loss: 0.000, g_loss:1.532, g_recon_loss:1.532
+INFO:root:Epoch:[0]-[3/10] --> d_loss: 35.539, g_loss:0.395, g_recon_loss:0.395
+INFO:root:Epoch:[0]-[4/10] --> d_loss: 10.405, g_loss:27.783, g_recon_loss:27.783
+INFO:root:Epoch:[0]-[5/10] --> d_loss: 69.157, g_loss:0.311, g_recon_loss:0.311
+INFO:root:Epoch:[0]-[6/10] --> d_loss: 0.000, g_loss:0.313, g_recon_loss:0.313
+INFO:root:Epoch:[0]-[7/10] --> d_loss: 0.000, g_loss:1.319, g_recon_loss:1.319
+INFO:root:Epoch:[0]-[8/10] --> d_loss: 0.000, g_loss:0.417, g_recon_loss:0.417
+INFO:root:Epoch:[0]-[9/10] --> d_loss: 0.000, g_loss:1.417, g_recon_loss:1.417
+INFO:root:Epoch:[1]-[0/10] --> d_loss: 27.004, g_loss:0.757, g_recon_loss:0.757
+INFO:root:Epoch:[1]-[1/10] --> d_loss: 34.843, g_loss:0.389, g_recon_loss:0.389
+INFO:root:Epoch:[1]-[2/10] --> d_loss: 0.000, g_loss:0.143, g_recon_loss:0.143
+INFO:root:Epoch:[1]-[3/10] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[1]-[4/10] --> d_loss: 0.000, g_loss:1.236, g_recon_loss:1.236
+INFO:root:Epoch:[1]-[5/10] --> d_loss: 0.000, g_loss:0.098, g_recon_loss:0.098
+INFO:root:Epoch:[1]-[6/10] --> d_loss: 0.000, g_loss:0.031, g_recon_loss:0.031
+INFO:root:Epoch:[1]-[7/10] --> d_loss: 0.000, g_loss:0.028, g_recon_loss:0.028
+INFO:root:Epoch:[1]-[8/10] --> d_loss: 0.000, g_loss:0.026, g_recon_loss:0.026
+INFO:root:Epoch:[1]-[9/10] --> d_loss: 0.000, g_loss:0.025, g_recon_loss:0.025
+INFO:root:Epoch:[2]-[0/10] --> d_loss: 0.000, g_loss:0.024, g_recon_loss:0.024
+INFO:root:Epoch:[2]-[1/10] --> d_loss: 0.000, g_loss:0.023, g_recon_loss:0.023
+INFO:root:Epoch:[2]-[2/10] --> d_loss: 0.000, g_loss:0.022, g_recon_loss:0.022
+INFO:root:Epoch:[2]-[3/10] --> d_loss: 0.000, g_loss:0.021, g_recon_loss:0.021
+INFO:root:Epoch:[2]-[4/10] --> d_loss: 0.000, g_loss:0.020, g_recon_loss:0.020
+INFO:root:Epoch:[2]-[5/10] --> d_loss: 0.000, g_loss:0.018, g_recon_loss:0.018
+INFO:root:Epoch:[2]-[6/10] --> d_loss: 0.000, g_loss:0.018, g_recon_loss:0.018
+INFO:root:Epoch:[2]-[7/10] --> d_loss: 0.000, g_loss:0.017, g_recon_loss:0.017
+INFO:root:Epoch:[2]-[8/10] --> d_loss: 0.000, g_loss:0.015, g_recon_loss:0.015
+INFO:root:Epoch:[2]-[9/10] --> d_loss: 0.000, g_loss:0.015, g_recon_loss:0.015
+INFO:root:Epoch:[3]-[0/10] --> d_loss: 0.000, g_loss:0.013, g_recon_loss:0.013
+INFO:root:Epoch:[3]-[1/10] --> d_loss: 0.000, g_loss:0.012, g_recon_loss:0.012
+INFO:root:Epoch:[3]-[2/10] --> d_loss: 0.000, g_loss:0.013, g_recon_loss:0.013
+INFO:root:Epoch:[3]-[3/10] --> d_loss: 0.000, g_loss:0.012, g_recon_loss:0.012
+INFO:root:Epoch:[3]-[4/10] --> d_loss: 0.000, g_loss:0.019, g_recon_loss:0.019
+INFO:root:Epoch:[3]-[5/10] --> d_loss: 0.000, g_loss:0.684, g_recon_loss:0.684
+INFO:root:Epoch:[3]-[6/10] --> d_loss: 0.000, g_loss:43.629, g_recon_loss:43.629
+INFO:root:Epoch:[3]-[7/10] --> d_loss: 0.000, g_loss:0.556, g_recon_loss:0.556
+INFO:root:Epoch:[3]-[8/10] --> d_loss: 2.852, g_loss:0.799, g_recon_loss:0.799
+INFO:root:Epoch:[3]-[9/10] --> d_loss: 96.728, g_loss:1.878, g_recon_loss:1.878
+INFO:root:Epoch:[4]-[0/10] --> d_loss: 127.116, g_loss:21.385, g_recon_loss:21.385
+INFO:root:Epoch:[4]-[1/10] --> d_loss: 6.528, g_loss:2.664, g_recon_loss:2.664
+INFO:root:Epoch:[4]-[2/10] --> d_loss: 0.000, g_loss:1.042, g_recon_loss:1.042
+INFO:root:Epoch:[4]-[3/10] --> d_loss: 0.000, g_loss:0.027, g_recon_loss:0.027
+INFO:root:Epoch:[4]-[4/10] --> d_loss: 0.000, g_loss:0.018, g_recon_loss:0.018
+INFO:root:Epoch:[4]-[5/10] --> d_loss: 0.000, g_loss:0.016, g_recon_loss:0.016
+INFO:root:Epoch:[4]-[6/10] --> d_loss: 0.000, g_loss:0.017, g_recon_loss:0.017
+INFO:root:Epoch:[4]-[7/10] --> d_loss: 0.000, g_loss:0.016, g_recon_loss:0.016
+INFO:root:Epoch:[4]-[8/10] --> d_loss: 0.000, g_loss:0.015, g_recon_loss:0.015
+INFO:root:Epoch:[4]-[9/10] --> d_loss: 0.000, g_loss:0.014, g_recon_loss:0.014
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/4] --> d_loss: 177.032, g_loss:258.064, g_recon_loss:258.064
+INFO:root:Epoch:[0]-[1/4] --> d_loss: 623.517, g_loss:0.215, g_recon_loss:0.215
+INFO:root:Epoch:[0]-[2/4] --> d_loss: 2.127, g_loss:0.108, g_recon_loss:0.108
+INFO:root:Epoch:[0]-[3/4] --> d_loss: 0.269, g_loss:0.077, g_recon_loss:0.077
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/4] --> d_loss: 131.795, g_loss:333.664, g_recon_loss:333.664
+INFO:root:Epoch:[0]-[1/4] --> d_loss: 187.920, g_loss:13.667, g_recon_loss:13.667
+INFO:root:Epoch:[0]-[2/4] --> d_loss: 174.746, g_loss:457.241, g_recon_loss:457.241
+INFO:root:Epoch:[0]-[3/4] --> d_loss: 1.402, g_loss:120.570, g_recon_loss:120.570
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 147.759, g_loss:319.126, g_recon_loss:319.126
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 328.380, g_loss:354.474, g_recon_loss:354.474
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 121.376, g_loss:307.701, g_recon_loss:307.701
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 83.987, g_loss:572.079, g_recon_loss:572.079
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 730.656, g_loss:152.946, g_recon_loss:152.946
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 287.623, g_loss:109.528, g_recon_loss:109.528
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 204.076, g_loss:92.922, g_recon_loss:92.922
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 304.308, g_loss:177.097, g_recon_loss:177.097
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 270.802, g_loss:90.155, g_recon_loss:90.155
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 177.247, g_loss:125.603, g_recon_loss:125.603
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 204.189, g_loss:16.684, g_recon_loss:16.684
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 414.209, g_loss:149.285, g_recon_loss:149.285
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 0.000, g_loss:39.370, g_recon_loss:39.370
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 0.000, g_loss:2.917, g_recon_loss:2.917
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 13.265, g_loss:361.139, g_recon_loss:361.139
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 0.000, g_loss:282.460, g_recon_loss:282.460
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 0.000, g_loss:278.090, g_recon_loss:278.090
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:289.456, g_recon_loss:289.456
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:290.379, g_recon_loss:290.379
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 0.000, g_loss:290.193, g_recon_loss:290.193
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 0.000, g_loss:290.072, g_recon_loss:290.072
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 0.000, g_loss:290.060, g_recon_loss:290.060
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 0.000, g_loss:290.151, g_recon_loss:290.151
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 0.000, g_loss:290.256, g_recon_loss:290.256
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:290.393, g_recon_loss:290.393
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 136.274, g_loss:398.739, g_recon_loss:398.739
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 15.289, g_loss:0.141, g_recon_loss:0.141
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 279.255, g_loss:491.180, g_recon_loss:491.180
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 190.949, g_loss:172.689, g_recon_loss:172.689
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 494.801, g_loss:203.168, g_recon_loss:203.168
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 118.938, g_loss:469.573, g_recon_loss:469.573
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 474.684, g_loss:183.029, g_recon_loss:183.029
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 380.332, g_loss:104.016, g_recon_loss:104.016
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 319.815, g_loss:101.464, g_recon_loss:101.464
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 24.093, g_loss:209.298, g_recon_loss:209.298
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 99.401, g_loss:95.651, g_recon_loss:95.651
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 265.708, g_loss:303.796, g_recon_loss:303.796
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 22.681, g_loss:234.172, g_recon_loss:234.172
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 48.405, g_loss:41.849, g_recon_loss:41.849
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 1.244, g_loss:45.199, g_recon_loss:45.199
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 2.199, g_loss:208.966, g_recon_loss:208.966
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 0.000, g_loss:178.923, g_recon_loss:178.923
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:149.712, g_recon_loss:149.712
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:76.965, g_recon_loss:76.965
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 37.985, g_loss:493.738, g_recon_loss:493.738
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 0.000, g_loss:169.140, g_recon_loss:169.140
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 0.000, g_loss:89.683, g_recon_loss:89.683
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 0.237, g_loss:393.510, g_recon_loss:393.510
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 73.778, g_loss:413.348, g_recon_loss:413.348
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:389.976, g_recon_loss:389.976
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 174.630, g_loss:296.151, g_recon_loss:296.151
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 831.868, g_loss:47.824, g_recon_loss:47.824
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 41.185, g_loss:44.233, g_recon_loss:44.233
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 510.496, g_loss:321.688, g_recon_loss:321.688
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 0.000, g_loss:189.542, g_recon_loss:189.542
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 0.000, g_loss:131.111, g_recon_loss:131.111
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 0.000, g_loss:63.335, g_recon_loss:63.335
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 0.000, g_loss:62.071, g_recon_loss:62.071
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 0.000, g_loss:62.473, g_recon_loss:62.473
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 0.000, g_loss:62.163, g_recon_loss:62.163
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 0.000, g_loss:59.479, g_recon_loss:59.479
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 0.000, g_loss:59.665, g_recon_loss:59.665
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 0.000, g_loss:58.992, g_recon_loss:58.992
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 0.000, g_loss:58.785, g_recon_loss:58.785
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 0.000, g_loss:58.634, g_recon_loss:58.634
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 0.000, g_loss:57.753, g_recon_loss:57.753
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 0.000, g_loss:57.566, g_recon_loss:57.566
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:57.902, g_recon_loss:57.902
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:57.396, g_recon_loss:57.396
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 0.000, g_loss:57.410, g_recon_loss:57.410
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 0.000, g_loss:56.848, g_recon_loss:56.848
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 0.000, g_loss:57.085, g_recon_loss:57.085
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 0.000, g_loss:56.567, g_recon_loss:56.567
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 0.000, g_loss:56.635, g_recon_loss:56.635
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:56.205, g_recon_loss:56.205
+INFO:root:Epoch:[5]-[0/5] --> d_loss: 0.000, g_loss:56.514, g_recon_loss:56.514
+INFO:root:Epoch:[5]-[1/5] --> d_loss: 0.000, g_loss:55.779, g_recon_loss:55.779
+INFO:root:Epoch:[5]-[2/5] --> d_loss: 0.000, g_loss:55.881, g_recon_loss:55.881
+INFO:root:Epoch:[5]-[3/5] --> d_loss: 0.000, g_loss:55.404, g_recon_loss:55.404
+INFO:root:Epoch:[5]-[4/5] --> d_loss: 0.000, g_loss:55.489, g_recon_loss:55.489
+INFO:root:Epoch:[6]-[0/5] --> d_loss: 0.000, g_loss:55.005, g_recon_loss:55.005
+INFO:root:Epoch:[6]-[1/5] --> d_loss: 0.000, g_loss:54.434, g_recon_loss:54.434
+INFO:root:Epoch:[6]-[2/5] --> d_loss: 0.008, g_loss:0.763, g_recon_loss:0.763
+INFO:root:Epoch:[6]-[3/5] --> d_loss: 289.846, g_loss:99.703, g_recon_loss:99.703
+INFO:root:Epoch:[6]-[4/5] --> d_loss: 266.586, g_loss:506.497, g_recon_loss:506.497
+INFO:root:Epoch:[7]-[0/5] --> d_loss: 0.000, g_loss:506.751, g_recon_loss:506.751
+INFO:root:Epoch:[7]-[1/5] --> d_loss: 0.000, g_loss:507.015, g_recon_loss:507.015
+INFO:root:Epoch:[7]-[2/5] --> d_loss: 0.000, g_loss:505.266, g_recon_loss:505.266
+INFO:root:Epoch:[7]-[3/5] --> d_loss: 0.000, g_loss:506.462, g_recon_loss:506.462
+INFO:root:Epoch:[7]-[4/5] --> d_loss: 0.000, g_loss:533.701, g_recon_loss:533.701
+INFO:root:Epoch:[8]-[0/5] --> d_loss: 0.000, g_loss:507.766, g_recon_loss:507.766
+INFO:root:Epoch:[8]-[1/5] --> d_loss: 0.000, g_loss:503.049, g_recon_loss:503.049
+INFO:root:Epoch:[8]-[2/5] --> d_loss: 0.000, g_loss:450.152, g_recon_loss:450.152
+INFO:root:Epoch:[8]-[3/5] --> d_loss: 153.018, g_loss:644.279, g_recon_loss:644.279
+INFO:root:Epoch:[8]-[4/5] --> d_loss: 699.341, g_loss:288.886, g_recon_loss:288.886
+INFO:root:Epoch:[9]-[0/5] --> d_loss: 372.244, g_loss:171.663, g_recon_loss:171.663
+INFO:root:Epoch:[9]-[1/5] --> d_loss: 382.164, g_loss:138.256, g_recon_loss:138.256
+INFO:root:Epoch:[9]-[2/5] --> d_loss: 286.642, g_loss:118.402, g_recon_loss:118.402
+INFO:root:Epoch:[9]-[3/5] --> d_loss: 261.448, g_loss:77.322, g_recon_loss:77.322
+INFO:root:Epoch:[9]-[4/5] --> d_loss: 273.391, g_loss:281.540, g_recon_loss:281.540
+INFO:root:Epoch:[10]-[0/5] --> d_loss: 16.818, g_loss:356.876, g_recon_loss:356.876
+INFO:root:Epoch:[10]-[1/5] --> d_loss: 122.267, g_loss:52.878, g_recon_loss:52.878
+INFO:root:Epoch:[10]-[2/5] --> d_loss: 0.022, g_loss:116.117, g_recon_loss:116.117
+INFO:root:Epoch:[10]-[3/5] --> d_loss: 0.000, g_loss:121.500, g_recon_loss:121.500
+INFO:root:Epoch:[10]-[4/5] --> d_loss: 0.000, g_loss:111.766, g_recon_loss:111.766
+INFO:root:Epoch:[11]-[0/5] --> d_loss: 0.000, g_loss:116.873, g_recon_loss:116.873
+INFO:root:Epoch:[11]-[1/5] --> d_loss: 0.000, g_loss:114.177, g_recon_loss:114.177
+INFO:root:Epoch:[11]-[2/5] --> d_loss: 0.000, g_loss:110.317, g_recon_loss:110.317
+INFO:root:Epoch:[11]-[3/5] --> d_loss: 0.000, g_loss:116.873, g_recon_loss:116.873
+INFO:root:Epoch:[11]-[4/5] --> d_loss: 0.000, g_loss:105.128, g_recon_loss:105.128
+INFO:root:Epoch:[12]-[0/5] --> d_loss: 0.000, g_loss:115.636, g_recon_loss:115.636
+INFO:root:Epoch:[12]-[1/5] --> d_loss: 0.000, g_loss:108.122, g_recon_loss:108.122
+INFO:root:Epoch:[12]-[2/5] --> d_loss: 0.000, g_loss:102.103, g_recon_loss:102.103
+INFO:root:Epoch:[12]-[3/5] --> d_loss: 0.000, g_loss:106.600, g_recon_loss:106.600
+INFO:root:Epoch:[12]-[4/5] --> d_loss: 0.000, g_loss:86.103, g_recon_loss:86.103
+INFO:root:Epoch:[13]-[0/5] --> d_loss: 0.000, g_loss:43.127, g_recon_loss:43.127
+INFO:root:Epoch:[13]-[1/5] --> d_loss: 0.000, g_loss:15.473, g_recon_loss:15.473
+INFO:root:Epoch:[13]-[2/5] --> d_loss: 0.000, g_loss:296.824, g_recon_loss:296.824
+INFO:root:Epoch:[13]-[3/5] --> d_loss: 0.000, g_loss:4.174, g_recon_loss:4.174
+INFO:root:Epoch:[13]-[4/5] --> d_loss: 0.000, g_loss:1.873, g_recon_loss:1.873
+INFO:root:Epoch:[14]-[0/5] --> d_loss: 0.000, g_loss:4.749, g_recon_loss:4.749
+INFO:root:Epoch:[14]-[1/5] --> d_loss: 2.883, g_loss:251.541, g_recon_loss:251.541
+INFO:root:Epoch:[14]-[2/5] --> d_loss: 681.404, g_loss:76.391, g_recon_loss:76.391
+INFO:root:Epoch:[14]-[3/5] --> d_loss: 9.932, g_loss:435.909, g_recon_loss:435.909
+INFO:root:Epoch:[14]-[4/5] --> d_loss: 37.808, g_loss:166.094, g_recon_loss:166.094
+INFO:root:Epoch:[15]-[0/5] --> d_loss: 0.000, g_loss:167.598, g_recon_loss:167.598
+INFO:root:Epoch:[15]-[1/5] --> d_loss: 0.000, g_loss:163.184, g_recon_loss:163.184
+INFO:root:Epoch:[15]-[2/5] --> d_loss: 0.000, g_loss:168.049, g_recon_loss:168.049
+INFO:root:Epoch:[15]-[3/5] --> d_loss: 0.000, g_loss:172.608, g_recon_loss:172.608
+INFO:root:Epoch:[15]-[4/5] --> d_loss: 0.000, g_loss:158.534, g_recon_loss:158.534
+INFO:root:Epoch:[16]-[0/5] --> d_loss: 0.000, g_loss:165.727, g_recon_loss:165.727
+INFO:root:Epoch:[16]-[1/5] --> d_loss: 0.000, g_loss:162.117, g_recon_loss:162.117
+INFO:root:Epoch:[16]-[2/5] --> d_loss: 0.000, g_loss:166.471, g_recon_loss:166.471
+INFO:root:Epoch:[16]-[3/5] --> d_loss: 0.000, g_loss:171.760, g_recon_loss:171.760
+INFO:root:Epoch:[16]-[4/5] --> d_loss: 0.000, g_loss:157.318, g_recon_loss:157.318
+INFO:root:Epoch:[17]-[0/5] --> d_loss: 0.000, g_loss:163.658, g_recon_loss:163.658
+INFO:root:Epoch:[17]-[1/5] --> d_loss: 0.000, g_loss:161.218, g_recon_loss:161.218
+INFO:root:Epoch:[17]-[2/5] --> d_loss: 0.000, g_loss:165.097, g_recon_loss:165.097
+INFO:root:Epoch:[17]-[3/5] --> d_loss: 0.000, g_loss:170.618, g_recon_loss:170.618
+INFO:root:Epoch:[17]-[4/5] --> d_loss: 0.000, g_loss:155.766, g_recon_loss:155.766
+INFO:root:Epoch:[18]-[0/5] --> d_loss: 0.000, g_loss:160.562, g_recon_loss:160.562
+INFO:root:Epoch:[18]-[1/5] --> d_loss: 0.000, g_loss:159.334, g_recon_loss:159.334
+INFO:root:Epoch:[18]-[2/5] --> d_loss: 0.000, g_loss:158.812, g_recon_loss:158.812
+INFO:root:Epoch:[18]-[3/5] --> d_loss: 0.000, g_loss:152.151, g_recon_loss:152.151
+INFO:root:Epoch:[18]-[4/5] --> d_loss: 0.000, g_loss:114.479, g_recon_loss:114.479
+INFO:root:Epoch:[19]-[0/5] --> d_loss: 1.739, g_loss:311.636, g_recon_loss:311.636
+INFO:root:Epoch:[19]-[1/5] --> d_loss: 55.216, g_loss:92.707, g_recon_loss:92.707
+INFO:root:Epoch:[19]-[2/5] --> d_loss: 7.015, g_loss:360.396, g_recon_loss:360.396
+INFO:root:Epoch:[19]-[3/5] --> d_loss: 436.819, g_loss:116.918, g_recon_loss:116.918
+INFO:root:Epoch:[19]-[4/5] --> d_loss: 0.000, g_loss:143.589, g_recon_loss:143.589
+INFO:root:Epoch:[20]-[0/5] --> d_loss: 6.617, g_loss:306.811, g_recon_loss:306.811
+INFO:root:Epoch:[20]-[1/5] --> d_loss: 0.000, g_loss:3.368, g_recon_loss:3.368
+INFO:root:Epoch:[20]-[2/5] --> d_loss: 190.819, g_loss:918.700, g_recon_loss:918.700
+INFO:root:Epoch:[20]-[3/5] --> d_loss: 61.970, g_loss:154.191, g_recon_loss:154.191
+INFO:root:Epoch:[20]-[4/5] --> d_loss: 0.000, g_loss:165.032, g_recon_loss:165.032
+INFO:root:Epoch:[21]-[0/5] --> d_loss: 0.000, g_loss:158.887, g_recon_loss:158.887
+INFO:root:Epoch:[21]-[1/5] --> d_loss: 0.000, g_loss:160.572, g_recon_loss:160.572
+INFO:root:Epoch:[21]-[2/5] --> d_loss: 0.000, g_loss:156.582, g_recon_loss:156.582
+INFO:root:Epoch:[21]-[3/5] --> d_loss: 0.000, g_loss:137.437, g_recon_loss:137.437
+INFO:root:Epoch:[21]-[4/5] --> d_loss: 0.000, g_loss:110.812, g_recon_loss:110.812
+INFO:root:Epoch:[22]-[0/5] --> d_loss: 1.857, g_loss:624.169, g_recon_loss:624.169
+INFO:root:Epoch:[22]-[1/5] --> d_loss: 2.823, g_loss:378.884, g_recon_loss:378.884
+INFO:root:Epoch:[22]-[2/5] --> d_loss: 0.000, g_loss:360.794, g_recon_loss:360.794
+INFO:root:Epoch:[22]-[3/5] --> d_loss: 0.000, g_loss:364.320, g_recon_loss:364.320
+INFO:root:Epoch:[22]-[4/5] --> d_loss: 0.000, g_loss:314.922, g_recon_loss:314.922
+INFO:root:Epoch:[23]-[0/5] --> d_loss: 0.000, g_loss:301.291, g_recon_loss:301.291
+INFO:root:Epoch:[23]-[1/5] --> d_loss: 0.000, g_loss:257.730, g_recon_loss:257.730
+INFO:root:Epoch:[23]-[2/5] --> d_loss: 0.000, g_loss:298.155, g_recon_loss:298.155
+INFO:root:Epoch:[23]-[3/5] --> d_loss: 0.000, g_loss:250.318, g_recon_loss:250.318
+INFO:root:Epoch:[23]-[4/5] --> d_loss: 0.000, g_loss:245.849, g_recon_loss:245.849
+INFO:root:Epoch:[24]-[0/5] --> d_loss: 0.000, g_loss:271.652, g_recon_loss:271.652
+INFO:root:Epoch:[24]-[1/5] --> d_loss: 0.000, g_loss:249.775, g_recon_loss:249.775
+INFO:root:Epoch:[24]-[2/5] --> d_loss: 0.000, g_loss:305.236, g_recon_loss:305.236
+INFO:root:Epoch:[24]-[3/5] --> d_loss: 0.000, g_loss:238.579, g_recon_loss:238.579
+INFO:root:Epoch:[24]-[4/5] --> d_loss: 0.000, g_loss:278.400, g_recon_loss:278.400
+INFO:root:Epoch:[25]-[0/5] --> d_loss: 0.000, g_loss:244.309, g_recon_loss:244.309
+INFO:root:Epoch:[25]-[1/5] --> d_loss: 0.000, g_loss:228.976, g_recon_loss:228.976
+INFO:root:Epoch:[25]-[2/5] --> d_loss: 0.000, g_loss:226.675, g_recon_loss:226.675
+INFO:root:Epoch:[25]-[3/5] --> d_loss: 0.000, g_loss:238.802, g_recon_loss:238.802
+INFO:root:Epoch:[25]-[4/5] --> d_loss: 0.000, g_loss:228.425, g_recon_loss:228.425
+INFO:root:Epoch:[26]-[0/5] --> d_loss: 0.000, g_loss:224.505, g_recon_loss:224.505
+INFO:root:Epoch:[26]-[1/5] --> d_loss: 0.000, g_loss:214.030, g_recon_loss:214.030
+INFO:root:Epoch:[26]-[2/5] --> d_loss: 0.000, g_loss:219.844, g_recon_loss:219.844
+INFO:root:Epoch:[26]-[3/5] --> d_loss: 0.000, g_loss:220.489, g_recon_loss:220.489
+INFO:root:Epoch:[26]-[4/5] --> d_loss: 0.000, g_loss:223.163, g_recon_loss:223.163
+INFO:root:Epoch:[27]-[0/5] --> d_loss: 0.000, g_loss:250.540, g_recon_loss:250.540
+INFO:root:Epoch:[27]-[1/5] --> d_loss: 0.000, g_loss:218.284, g_recon_loss:218.284
+INFO:root:Epoch:[27]-[2/5] --> d_loss: 0.000, g_loss:221.466, g_recon_loss:221.466
+INFO:root:Epoch:[27]-[3/5] --> d_loss: 0.000, g_loss:228.938, g_recon_loss:228.938
+INFO:root:Epoch:[27]-[4/5] --> d_loss: 0.000, g_loss:225.594, g_recon_loss:225.594
+INFO:root:Epoch:[28]-[0/5] --> d_loss: 0.000, g_loss:226.938, g_recon_loss:226.938
+INFO:root:Epoch:[28]-[1/5] --> d_loss: 0.000, g_loss:213.670, g_recon_loss:213.670
+INFO:root:Epoch:[28]-[2/5] --> d_loss: 0.000, g_loss:218.810, g_recon_loss:218.810
+INFO:root:Epoch:[28]-[3/5] --> d_loss: 0.000, g_loss:225.693, g_recon_loss:225.693
+INFO:root:Epoch:[28]-[4/5] --> d_loss: 0.000, g_loss:224.098, g_recon_loss:224.098
+INFO:root:Epoch:[29]-[0/5] --> d_loss: 0.000, g_loss:224.165, g_recon_loss:224.165
+INFO:root:Epoch:[29]-[1/5] --> d_loss: 0.000, g_loss:211.813, g_recon_loss:211.813
+INFO:root:Epoch:[29]-[2/5] --> d_loss: 0.000, g_loss:217.395, g_recon_loss:217.395
+INFO:root:Epoch:[29]-[3/5] --> d_loss: 0.000, g_loss:223.674, g_recon_loss:223.674
+INFO:root:Epoch:[29]-[4/5] --> d_loss: 0.000, g_loss:223.338, g_recon_loss:223.338
+INFO:root:Epoch:[30]-[0/5] --> d_loss: 0.000, g_loss:223.246, g_recon_loss:223.246
+INFO:root:Epoch:[30]-[1/5] --> d_loss: 0.000, g_loss:210.736, g_recon_loss:210.736
+INFO:root:Epoch:[30]-[2/5] --> d_loss: 0.000, g_loss:216.475, g_recon_loss:216.475
+INFO:root:Epoch:[30]-[3/5] --> d_loss: 0.000, g_loss:222.441, g_recon_loss:222.441
+INFO:root:Epoch:[30]-[4/5] --> d_loss: 0.000, g_loss:222.485, g_recon_loss:222.485
+INFO:root:Epoch:[31]-[0/5] --> d_loss: 0.000, g_loss:222.412, g_recon_loss:222.412
+INFO:root:Epoch:[31]-[1/5] --> d_loss: 0.000, g_loss:209.968, g_recon_loss:209.968
+INFO:root:Epoch:[31]-[2/5] --> d_loss: 0.000, g_loss:215.215, g_recon_loss:215.215
+INFO:root:Epoch:[31]-[3/5] --> d_loss: 0.000, g_loss:220.197, g_recon_loss:220.197
+INFO:root:Epoch:[31]-[4/5] --> d_loss: 0.000, g_loss:221.018, g_recon_loss:221.018
+INFO:root:Epoch:[32]-[0/5] --> d_loss: 0.000, g_loss:220.725, g_recon_loss:220.725
+INFO:root:Epoch:[32]-[1/5] --> d_loss: 0.000, g_loss:206.823, g_recon_loss:206.823
+INFO:root:Epoch:[32]-[2/5] --> d_loss: 0.000, g_loss:211.414, g_recon_loss:211.414
+INFO:root:Epoch:[32]-[3/5] --> d_loss: 0.000, g_loss:214.909, g_recon_loss:214.909
+INFO:root:Epoch:[32]-[4/5] --> d_loss: 0.000, g_loss:216.956, g_recon_loss:216.956
+INFO:root:Epoch:[33]-[0/5] --> d_loss: 0.000, g_loss:215.248, g_recon_loss:215.248
+INFO:root:Epoch:[33]-[1/5] --> d_loss: 0.000, g_loss:202.265, g_recon_loss:202.265
+INFO:root:Epoch:[33]-[2/5] --> d_loss: 0.000, g_loss:206.301, g_recon_loss:206.301
+INFO:root:Epoch:[33]-[3/5] --> d_loss: 0.000, g_loss:208.957, g_recon_loss:208.957
+INFO:root:Epoch:[33]-[4/5] --> d_loss: 0.000, g_loss:212.522, g_recon_loss:212.522
+INFO:root:Epoch:[34]-[0/5] --> d_loss: 0.000, g_loss:209.871, g_recon_loss:209.871
+INFO:root:Epoch:[34]-[1/5] --> d_loss: 0.000, g_loss:197.910, g_recon_loss:197.910
+INFO:root:Epoch:[34]-[2/5] --> d_loss: 0.000, g_loss:201.847, g_recon_loss:201.847
+INFO:root:Epoch:[34]-[3/5] --> d_loss: 0.000, g_loss:203.379, g_recon_loss:203.379
+INFO:root:Epoch:[34]-[4/5] --> d_loss: 0.000, g_loss:208.398, g_recon_loss:208.398
+INFO:root:Epoch:[35]-[0/5] --> d_loss: 0.000, g_loss:219.072, g_recon_loss:219.072
+INFO:root:Epoch:[35]-[1/5] --> d_loss: 0.000, g_loss:192.631, g_recon_loss:192.631
+INFO:root:Epoch:[35]-[2/5] --> d_loss: 0.000, g_loss:221.591, g_recon_loss:221.591
+INFO:root:Epoch:[35]-[3/5] --> d_loss: 0.000, g_loss:257.371, g_recon_loss:257.371
+INFO:root:Epoch:[35]-[4/5] --> d_loss: 0.000, g_loss:192.479, g_recon_loss:192.479
+INFO:root:Epoch:[36]-[0/5] --> d_loss: 0.000, g_loss:0.214, g_recon_loss:0.214
+INFO:root:Epoch:[36]-[1/5] --> d_loss: 282.150, g_loss:124.219, g_recon_loss:124.219
+INFO:root:Epoch:[36]-[2/5] --> d_loss: 349.604, g_loss:730.167, g_recon_loss:730.167
+INFO:root:Epoch:[36]-[3/5] --> d_loss: 16.921, g_loss:165.495, g_recon_loss:165.495
+INFO:root:Epoch:[36]-[4/5] --> d_loss: 9.054, g_loss:215.915, g_recon_loss:215.915
+INFO:root:Epoch:[37]-[0/5] --> d_loss: 0.000, g_loss:243.077, g_recon_loss:243.077
+INFO:root:Epoch:[37]-[1/5] --> d_loss: 0.000, g_loss:166.132, g_recon_loss:166.132
+INFO:root:Epoch:[37]-[2/5] --> d_loss: 5.349, g_loss:331.324, g_recon_loss:331.324
+INFO:root:Epoch:[37]-[3/5] --> d_loss: 50.338, g_loss:376.303, g_recon_loss:376.303
+INFO:root:Epoch:[37]-[4/5] --> d_loss: 0.000, g_loss:374.417, g_recon_loss:374.417
+INFO:root:Epoch:[38]-[0/5] --> d_loss: 3.097, g_loss:458.300, g_recon_loss:458.300
+INFO:root:Epoch:[38]-[1/5] --> d_loss: 0.000, g_loss:456.757, g_recon_loss:456.757
+INFO:root:Epoch:[38]-[2/5] --> d_loss: 0.000, g_loss:456.938, g_recon_loss:456.938
+INFO:root:Epoch:[38]-[3/5] --> d_loss: 0.000, g_loss:360.904, g_recon_loss:360.904
+INFO:root:Epoch:[38]-[4/5] --> d_loss: 0.000, g_loss:386.248, g_recon_loss:386.248
+INFO:root:Epoch:[39]-[0/5] --> d_loss: 0.000, g_loss:0.242, g_recon_loss:0.242
+INFO:root:Epoch:[39]-[1/5] --> d_loss: 208.681, g_loss:337.592, g_recon_loss:337.592
+INFO:root:Epoch:[39]-[2/5] --> d_loss: 0.003, g_loss:127.208, g_recon_loss:127.208
+INFO:root:Epoch:[39]-[3/5] --> d_loss: 0.000, g_loss:81.698, g_recon_loss:81.698
+INFO:root:Epoch:[39]-[4/5] --> d_loss: 0.000, g_loss:72.431, g_recon_loss:72.431
+INFO:root:Epoch:[40]-[0/5] --> d_loss: 0.000, g_loss:89.625, g_recon_loss:89.625
+INFO:root:Epoch:[40]-[1/5] --> d_loss: 0.000, g_loss:170.620, g_recon_loss:170.620
+INFO:root:Epoch:[40]-[2/5] --> d_loss: 0.000, g_loss:120.732, g_recon_loss:120.732
+INFO:root:Epoch:[40]-[3/5] --> d_loss: 0.000, g_loss:126.879, g_recon_loss:126.879
+INFO:root:Epoch:[40]-[4/5] --> d_loss: 0.000, g_loss:89.642, g_recon_loss:89.642
+INFO:root:Epoch:[41]-[0/5] --> d_loss: 0.000, g_loss:110.093, g_recon_loss:110.093
+INFO:root:Epoch:[41]-[1/5] --> d_loss: 0.000, g_loss:68.762, g_recon_loss:68.762
+INFO:root:Epoch:[41]-[2/5] --> d_loss: 0.000, g_loss:72.103, g_recon_loss:72.103
+INFO:root:Epoch:[41]-[3/5] --> d_loss: 0.000, g_loss:88.746, g_recon_loss:88.746
+INFO:root:Epoch:[41]-[4/5] --> d_loss: 0.000, g_loss:60.777, g_recon_loss:60.777
+INFO:root:Epoch:[42]-[0/5] --> d_loss: 0.000, g_loss:74.930, g_recon_loss:74.930
+INFO:root:Epoch:[42]-[1/5] --> d_loss: 0.000, g_loss:39.674, g_recon_loss:39.674
+INFO:root:Epoch:[42]-[2/5] --> d_loss: 0.000, g_loss:42.870, g_recon_loss:42.870
+INFO:root:Epoch:[42]-[3/5] --> d_loss: 0.000, g_loss:52.624, g_recon_loss:52.624
+INFO:root:Epoch:[42]-[4/5] --> d_loss: 0.173, g_loss:706.155, g_recon_loss:706.155
+INFO:root:Epoch:[43]-[0/5] --> d_loss: 71.128, g_loss:340.518, g_recon_loss:340.518
+INFO:root:Epoch:[43]-[1/5] --> d_loss: 201.257, g_loss:1.785, g_recon_loss:1.785
+INFO:root:Epoch:[43]-[2/5] --> d_loss: 352.166, g_loss:43.602, g_recon_loss:43.602
+INFO:root:Epoch:[43]-[3/5] --> d_loss: 0.000, g_loss:46.576, g_recon_loss:46.576
+INFO:root:Epoch:[43]-[4/5] --> d_loss: 0.955, g_loss:87.590, g_recon_loss:87.590
+INFO:root:Epoch:[44]-[0/5] --> d_loss: 0.000, g_loss:71.280, g_recon_loss:71.280
+INFO:root:Epoch:[44]-[1/5] --> d_loss: 0.000, g_loss:60.383, g_recon_loss:60.383
+INFO:root:Epoch:[44]-[2/5] --> d_loss: 0.000, g_loss:62.764, g_recon_loss:62.764
+INFO:root:Epoch:[44]-[3/5] --> d_loss: 0.000, g_loss:394.849, g_recon_loss:394.849
+INFO:root:Epoch:[44]-[4/5] --> d_loss: 0.000, g_loss:254.492, g_recon_loss:254.492
+INFO:root:Epoch:[45]-[0/5] --> d_loss: 0.000, g_loss:9.571, g_recon_loss:9.571
+INFO:root:Epoch:[45]-[1/5] --> d_loss: 93.876, g_loss:300.624, g_recon_loss:300.624
+INFO:root:Epoch:[45]-[2/5] --> d_loss: 0.000, g_loss:273.027, g_recon_loss:273.027
+INFO:root:Epoch:[45]-[3/5] --> d_loss: 0.000, g_loss:176.446, g_recon_loss:176.446
+INFO:root:Epoch:[45]-[4/5] --> d_loss: 0.000, g_loss:146.774, g_recon_loss:146.774
+INFO:root:Epoch:[46]-[0/5] --> d_loss: 0.470, g_loss:688.544, g_recon_loss:688.544
+INFO:root:Epoch:[46]-[1/5] --> d_loss: 94.221, g_loss:29.323, g_recon_loss:29.323
+INFO:root:Epoch:[46]-[2/5] --> d_loss: 0.000, g_loss:45.950, g_recon_loss:45.950
+INFO:root:Epoch:[46]-[3/5] --> d_loss: 0.000, g_loss:16.827, g_recon_loss:16.827
+INFO:root:Epoch:[46]-[4/5] --> d_loss: 0.000, g_loss:50.908, g_recon_loss:50.908
+INFO:root:Epoch:[47]-[0/5] --> d_loss: 0.000, g_loss:20.553, g_recon_loss:20.553
+INFO:root:Epoch:[47]-[1/5] --> d_loss: 0.000, g_loss:27.280, g_recon_loss:27.280
+INFO:root:Epoch:[47]-[2/5] --> d_loss: 0.000, g_loss:41.501, g_recon_loss:41.501
+INFO:root:Epoch:[47]-[3/5] --> d_loss: 0.000, g_loss:14.686, g_recon_loss:14.686
+INFO:root:Epoch:[47]-[4/5] --> d_loss: 0.000, g_loss:45.515, g_recon_loss:45.515
+INFO:root:Epoch:[48]-[0/5] --> d_loss: 0.648, g_loss:226.940, g_recon_loss:226.940
+INFO:root:Epoch:[48]-[1/5] --> d_loss: 296.642, g_loss:446.655, g_recon_loss:446.655
+INFO:root:Epoch:[48]-[2/5] --> d_loss: 8.013, g_loss:243.095, g_recon_loss:243.095
+INFO:root:Epoch:[48]-[3/5] --> d_loss: 0.000, g_loss:203.941, g_recon_loss:203.941
+INFO:root:Epoch:[48]-[4/5] --> d_loss: 0.000, g_loss:201.045, g_recon_loss:201.045
+INFO:root:Epoch:[49]-[0/5] --> d_loss: 0.000, g_loss:170.507, g_recon_loss:170.507
+INFO:root:Epoch:[49]-[1/5] --> d_loss: 0.000, g_loss:168.310, g_recon_loss:168.310
+INFO:root:Epoch:[49]-[2/5] --> d_loss: 0.000, g_loss:161.005, g_recon_loss:161.005
+INFO:root:Epoch:[49]-[3/5] --> d_loss: 0.000, g_loss:145.854, g_recon_loss:145.854
+INFO:root:Epoch:[49]-[4/5] --> d_loss: 0.152, g_loss:348.394, g_recon_loss:348.394
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 162.464, g_loss:1.327, g_recon_loss:1.327
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 86.682, g_loss:0.566, g_recon_loss:0.566
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 0.000, g_loss:0.258, g_recon_loss:0.258
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 0.000, g_loss:0.130, g_recon_loss:0.130
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 59.116, g_loss:383.319, g_recon_loss:383.319
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 8.216, g_loss:0.697, g_recon_loss:0.697
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 475.315, g_loss:0.284, g_recon_loss:0.284
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 0.000, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 8.688, g_loss:1.577, g_recon_loss:1.577
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 15.175, g_loss:0.410, g_recon_loss:0.410
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 143.139, g_loss:133.230, g_recon_loss:133.230
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 741.358, g_loss:0.474, g_recon_loss:0.474
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 0.000, g_loss:0.102, g_recon_loss:0.102
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 0.000, g_loss:0.086, g_recon_loss:0.086
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 0.000, g_loss:0.086, g_recon_loss:0.086
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 4.264, g_loss:82.115, g_recon_loss:82.115
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 102.486, g_loss:0.138, g_recon_loss:0.138
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 14.367, g_loss:0.126, g_recon_loss:0.126
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 0.000, g_loss:0.119, g_recon_loss:0.119
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 0.000, g_loss:0.115, g_recon_loss:0.115
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 0.000, g_loss:0.102, g_recon_loss:0.102
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 0.000, g_loss:0.097, g_recon_loss:0.097
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 0.000, g_loss:0.094, g_recon_loss:0.094
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 0.000, g_loss:0.091, g_recon_loss:0.091
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 0.000, g_loss:0.089, g_recon_loss:0.089
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 0.000, g_loss:0.083, g_recon_loss:0.083
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 0.000, g_loss:0.081, g_recon_loss:0.081
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:0.084, g_recon_loss:0.084
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 0.000, g_loss:0.084, g_recon_loss:0.084
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 1.297, g_loss:4.207, g_recon_loss:4.207
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 19.516, g_loss:1.866, g_recon_loss:1.866
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 465.073, g_loss:0.820, g_recon_loss:0.820
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 152.540, g_loss:0.197, g_recon_loss:0.197
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:0.549, g_recon_loss:0.549
+INFO:root:Epoch:[5]-[0/5] --> d_loss: 0.000, g_loss:0.322, g_recon_loss:0.322
+INFO:root:Epoch:[5]-[1/5] --> d_loss: 0.000, g_loss:0.213, g_recon_loss:0.213
+INFO:root:Epoch:[5]-[2/5] --> d_loss: 0.000, g_loss:0.166, g_recon_loss:0.166
+INFO:root:Epoch:[5]-[3/5] --> d_loss: 0.000, g_loss:0.161, g_recon_loss:0.161
+INFO:root:Epoch:[5]-[4/5] --> d_loss: 0.000, g_loss:0.149, g_recon_loss:0.149
+INFO:root:Epoch:[6]-[0/5] --> d_loss: 0.000, g_loss:0.131, g_recon_loss:0.131
+INFO:root:Epoch:[6]-[1/5] --> d_loss: 0.000, g_loss:0.122, g_recon_loss:0.122
+INFO:root:Epoch:[6]-[2/5] --> d_loss: 0.000, g_loss:0.124, g_recon_loss:0.124
+INFO:root:Epoch:[6]-[3/5] --> d_loss: 0.000, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[6]-[4/5] --> d_loss: 0.000, g_loss:0.122, g_recon_loss:0.122
+INFO:root:Epoch:[7]-[0/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[7]-[1/5] --> d_loss: 0.000, g_loss:0.099, g_recon_loss:0.099
+INFO:root:Epoch:[7]-[2/5] --> d_loss: 0.000, g_loss:0.109, g_recon_loss:0.109
+INFO:root:Epoch:[7]-[3/5] --> d_loss: 0.000, g_loss:0.109, g_recon_loss:0.109
+INFO:root:Epoch:[7]-[4/5] --> d_loss: 0.000, g_loss:0.090, g_recon_loss:0.090
+INFO:root:Epoch:[8]-[0/5] --> d_loss: 0.000, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[8]-[1/5] --> d_loss: 0.000, g_loss:0.077, g_recon_loss:0.077
+INFO:root:Epoch:[8]-[2/5] --> d_loss: 0.000, g_loss:0.081, g_recon_loss:0.081
+INFO:root:Epoch:[8]-[3/5] --> d_loss: 0.000, g_loss:0.089, g_recon_loss:0.089
+INFO:root:Epoch:[8]-[4/5] --> d_loss: 0.000, g_loss:0.080, g_recon_loss:0.080
+INFO:root:Epoch:[9]-[0/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[9]-[1/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[9]-[2/5] --> d_loss: 0.000, g_loss:0.081, g_recon_loss:0.081
+INFO:root:Epoch:[9]-[3/5] --> d_loss: 0.000, g_loss:0.077, g_recon_loss:0.077
+INFO:root:Epoch:[9]-[4/5] --> d_loss: 0.000, g_loss:0.075, g_recon_loss:0.075
+INFO:root:Epoch:[10]-[0/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[10]-[1/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[10]-[2/5] --> d_loss: 0.000, g_loss:0.075, g_recon_loss:0.075
+INFO:root:Epoch:[10]-[3/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[10]-[4/5] --> d_loss: 0.000, g_loss:0.128, g_recon_loss:0.128
+INFO:root:Epoch:[11]-[0/5] --> d_loss: 0.000, g_loss:0.097, g_recon_loss:0.097
+INFO:root:Epoch:[11]-[1/5] --> d_loss: 0.000, g_loss:0.087, g_recon_loss:0.087
+INFO:root:Epoch:[11]-[2/5] --> d_loss: 0.000, g_loss:0.084, g_recon_loss:0.084
+INFO:root:Epoch:[11]-[3/5] --> d_loss: 0.000, g_loss:0.085, g_recon_loss:0.085
+INFO:root:Epoch:[11]-[4/5] --> d_loss: 0.000, g_loss:0.086, g_recon_loss:0.086
+INFO:root:Epoch:[12]-[0/5] --> d_loss: 0.000, g_loss:0.082, g_recon_loss:0.082
+INFO:root:Epoch:[12]-[1/5] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[12]-[2/5] --> d_loss: 0.000, g_loss:0.079, g_recon_loss:0.079
+INFO:root:Epoch:[12]-[3/5] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[12]-[4/5] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[13]-[0/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[13]-[1/5] --> d_loss: 0.000, g_loss:0.084, g_recon_loss:0.084
+INFO:root:Epoch:[13]-[2/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[13]-[3/5] --> d_loss: 0.000, g_loss:0.078, g_recon_loss:0.078
+INFO:root:Epoch:[13]-[4/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[14]-[0/5] --> d_loss: 0.000, g_loss:0.074, g_recon_loss:0.074
+INFO:root:Epoch:[14]-[1/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[14]-[2/5] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[14]-[3/5] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[14]-[4/5] --> d_loss: 0.000, g_loss:0.077, g_recon_loss:0.077
+INFO:root:Epoch:[15]-[0/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[15]-[1/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[15]-[2/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[15]-[3/5] --> d_loss: 0.000, g_loss:0.131, g_recon_loss:0.131
+INFO:root:Epoch:[15]-[4/5] --> d_loss: 0.000, g_loss:0.074, g_recon_loss:0.074
+INFO:root:Epoch:[16]-[0/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[16]-[1/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[16]-[2/5] --> d_loss: 0.000, g_loss:0.076, g_recon_loss:0.076
+INFO:root:Epoch:[16]-[3/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[16]-[4/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[17]-[0/5] --> d_loss: 0.000, g_loss:0.067, g_recon_loss:0.067
+INFO:root:Epoch:[17]-[1/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[17]-[2/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[17]-[3/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[17]-[4/5] --> d_loss: 0.000, g_loss:0.077, g_recon_loss:0.077
+INFO:root:Epoch:[18]-[0/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[18]-[1/5] --> d_loss: 0.000, g_loss:0.067, g_recon_loss:0.067
+INFO:root:Epoch:[18]-[2/5] --> d_loss: 0.000, g_loss:0.066, g_recon_loss:0.066
+INFO:root:Epoch:[18]-[3/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[18]-[4/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[19]-[0/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[19]-[1/5] --> d_loss: 0.000, g_loss:0.132, g_recon_loss:0.132
+INFO:root:Epoch:[19]-[2/5] --> d_loss: 21.318, g_loss:1.241, g_recon_loss:1.241
+INFO:root:Epoch:[19]-[3/5] --> d_loss: 901.767, g_loss:455.974, g_recon_loss:455.974
+INFO:root:Epoch:[19]-[4/5] --> d_loss: 0.000, g_loss:0.986, g_recon_loss:0.986
+INFO:root:Epoch:[20]-[0/5] --> d_loss: 279.844, g_loss:0.460, g_recon_loss:0.460
+INFO:root:Epoch:[20]-[1/5] --> d_loss: 12.127, g_loss:0.251, g_recon_loss:0.251
+INFO:root:Epoch:[20]-[2/5] --> d_loss: 0.000, g_loss:0.098, g_recon_loss:0.098
+INFO:root:Epoch:[20]-[3/5] --> d_loss: 0.000, g_loss:0.501, g_recon_loss:0.501
+INFO:root:Epoch:[20]-[4/5] --> d_loss: 0.000, g_loss:0.301, g_recon_loss:0.301
+INFO:root:Epoch:[21]-[0/5] --> d_loss: 0.000, g_loss:0.178, g_recon_loss:0.178
+INFO:root:Epoch:[21]-[1/5] --> d_loss: 0.000, g_loss:0.127, g_recon_loss:0.127
+INFO:root:Epoch:[21]-[2/5] --> d_loss: 0.000, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[21]-[3/5] --> d_loss: 0.000, g_loss:0.101, g_recon_loss:0.101
+INFO:root:Epoch:[21]-[4/5] --> d_loss: 0.000, g_loss:0.098, g_recon_loss:0.098
+INFO:root:Epoch:[22]-[0/5] --> d_loss: 0.000, g_loss:0.091, g_recon_loss:0.091
+INFO:root:Epoch:[22]-[1/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[22]-[2/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[22]-[3/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[22]-[4/5] --> d_loss: 0.000, g_loss:0.088, g_recon_loss:0.088
+INFO:root:Epoch:[23]-[0/5] --> d_loss: 51.232, g_loss:410.171, g_recon_loss:410.171
+INFO:root:Epoch:[23]-[1/5] --> d_loss: 780.631, g_loss:206.221, g_recon_loss:206.221
+INFO:root:Epoch:[23]-[2/5] --> d_loss: 399.321, g_loss:93.483, g_recon_loss:93.483
+INFO:root:Epoch:[23]-[3/5] --> d_loss: 181.278, g_loss:591.450, g_recon_loss:591.450
+INFO:root:Epoch:[23]-[4/5] --> d_loss: 130.733, g_loss:0.662, g_recon_loss:0.662
+INFO:root:Epoch:[24]-[0/5] --> d_loss: 0.000, g_loss:0.382, g_recon_loss:0.382
+INFO:root:Epoch:[24]-[1/5] --> d_loss: 0.000, g_loss:0.368, g_recon_loss:0.368
+INFO:root:Epoch:[24]-[2/5] --> d_loss: 1.232, g_loss:0.349, g_recon_loss:0.349
+INFO:root:Epoch:[24]-[3/5] --> d_loss: 0.000, g_loss:0.318, g_recon_loss:0.318
+INFO:root:Epoch:[24]-[4/5] --> d_loss: 0.000, g_loss:1.962, g_recon_loss:1.962
+INFO:root:Epoch:[25]-[0/5] --> d_loss: 0.487, g_loss:0.260, g_recon_loss:0.260
+INFO:root:Epoch:[25]-[1/5] --> d_loss: 3.577, g_loss:0.268, g_recon_loss:0.268
+INFO:root:Epoch:[25]-[2/5] --> d_loss: 0.000, g_loss:0.222, g_recon_loss:0.222
+INFO:root:Epoch:[25]-[3/5] --> d_loss: 0.000, g_loss:0.210, g_recon_loss:0.210
+INFO:root:Epoch:[25]-[4/5] --> d_loss: 2.048, g_loss:0.194, g_recon_loss:0.194
+INFO:root:Epoch:[26]-[0/5] --> d_loss: 0.000, g_loss:0.167, g_recon_loss:0.167
+INFO:root:Epoch:[26]-[1/5] --> d_loss: 0.000, g_loss:0.148, g_recon_loss:0.148
+INFO:root:Epoch:[26]-[2/5] --> d_loss: 7.441, g_loss:168.656, g_recon_loss:168.656
+INFO:root:Epoch:[26]-[3/5] --> d_loss: 622.935, g_loss:359.032, g_recon_loss:359.032
+INFO:root:Epoch:[26]-[4/5] --> d_loss: 122.789, g_loss:52.575, g_recon_loss:52.575
+INFO:root:Epoch:[27]-[0/5] --> d_loss: 4.771, g_loss:7.953, g_recon_loss:7.953
+INFO:root:Epoch:[27]-[1/5] --> d_loss: 0.000, g_loss:0.211, g_recon_loss:0.211
+INFO:root:Epoch:[27]-[2/5] --> d_loss: 0.000, g_loss:0.143, g_recon_loss:0.143
+INFO:root:Epoch:[27]-[3/5] --> d_loss: 0.000, g_loss:0.134, g_recon_loss:0.134
+INFO:root:Epoch:[27]-[4/5] --> d_loss: 5.177, g_loss:0.879, g_recon_loss:0.879
+INFO:root:Epoch:[28]-[0/5] --> d_loss: 0.000, g_loss:0.134, g_recon_loss:0.134
+INFO:root:Epoch:[28]-[1/5] --> d_loss: 0.000, g_loss:0.113, g_recon_loss:0.113
+INFO:root:Epoch:[28]-[2/5] --> d_loss: 0.000, g_loss:0.103, g_recon_loss:0.103
+INFO:root:Epoch:[28]-[3/5] --> d_loss: 0.000, g_loss:0.095, g_recon_loss:0.095
+INFO:root:Epoch:[28]-[4/5] --> d_loss: 0.000, g_loss:0.415, g_recon_loss:0.415
+INFO:root:Epoch:[29]-[0/5] --> d_loss: 0.874, g_loss:2.454, g_recon_loss:2.454
+INFO:root:Epoch:[29]-[1/5] --> d_loss: 37.422, g_loss:414.346, g_recon_loss:414.346
+INFO:root:Epoch:[29]-[2/5] --> d_loss: 430.979, g_loss:166.699, g_recon_loss:166.699
+INFO:root:Epoch:[29]-[3/5] --> d_loss: 34.107, g_loss:498.763, g_recon_loss:498.763
+INFO:root:Epoch:[29]-[4/5] --> d_loss: 1.906, g_loss:88.780, g_recon_loss:88.780
+INFO:root:Epoch:[30]-[0/5] --> d_loss: 0.000, g_loss:61.853, g_recon_loss:61.853
+INFO:root:Epoch:[30]-[1/5] --> d_loss: 0.000, g_loss:70.772, g_recon_loss:70.772
+INFO:root:Epoch:[30]-[2/5] --> d_loss: 0.000, g_loss:195.348, g_recon_loss:195.348
+INFO:root:Epoch:[30]-[3/5] --> d_loss: 0.000, g_loss:42.057, g_recon_loss:42.057
+INFO:root:Epoch:[30]-[4/5] --> d_loss: 0.000, g_loss:34.708, g_recon_loss:34.708
+INFO:root:Epoch:[31]-[0/5] --> d_loss: 0.000, g_loss:122.517, g_recon_loss:122.517
+INFO:root:Epoch:[31]-[1/5] --> d_loss: 0.000, g_loss:19.948, g_recon_loss:19.948
+INFO:root:Epoch:[31]-[2/5] --> d_loss: 0.000, g_loss:71.121, g_recon_loss:71.121
+INFO:root:Epoch:[31]-[3/5] --> d_loss: 5.113, g_loss:147.490, g_recon_loss:147.490
+INFO:root:Epoch:[31]-[4/5] --> d_loss: 0.000, g_loss:570.926, g_recon_loss:570.926
+INFO:root:Epoch:[32]-[0/5] --> d_loss: 0.000, g_loss:123.970, g_recon_loss:123.970
+INFO:root:Epoch:[32]-[1/5] --> d_loss: 0.000, g_loss:133.931, g_recon_loss:133.931
+INFO:root:Epoch:[32]-[2/5] --> d_loss: 0.000, g_loss:142.481, g_recon_loss:142.481
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 149.270, g_loss:1.720, g_recon_loss:1.720
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 33.856, g_loss:1.749, g_recon_loss:1.749
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 429.273, g_loss:0.877, g_recon_loss:0.877
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 0.521, g_loss:0.481, g_recon_loss:0.481
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 0.023, g_loss:0.243, g_recon_loss:0.243
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 0.009, g_loss:0.156, g_recon_loss:0.156
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 0.000, g_loss:1.595, g_recon_loss:1.595
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 0.000, g_loss:0.739, g_recon_loss:0.739
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 0.000, g_loss:0.435, g_recon_loss:0.435
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 0.000, g_loss:0.248, g_recon_loss:0.248
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\tensorflow_core\python\ops\nn_impl.py:183: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:imageio:Lossy conversion from float64 to uint8. Range [0, 1]. Convert image to uint8 prior to saving to suppress this warning.
+WARNING:tensorflow:From C:\Users\me919585\PycharmProjects\imageload\venv2\lib\site-packages\keras\backend\tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+INFO:root:Epoch:[0]-[0/5] --> d_loss: 133.796, g_loss:1.102, g_recon_loss:1.102
+INFO:root:Epoch:[0]-[1/5] --> d_loss: 18.016, g_loss:0.470, g_recon_loss:0.470
+INFO:root:Epoch:[0]-[2/5] --> d_loss: 0.000, g_loss:0.315, g_recon_loss:0.315
+INFO:root:Epoch:[0]-[3/5] --> d_loss: 0.309, g_loss:0.216, g_recon_loss:0.216
+INFO:root:Epoch:[0]-[4/5] --> d_loss: 0.000, g_loss:0.160, g_recon_loss:0.160
+INFO:root:Epoch:[1]-[0/5] --> d_loss: 0.000, g_loss:0.173, g_recon_loss:0.173
+INFO:root:Epoch:[1]-[1/5] --> d_loss: 0.000, g_loss:0.169, g_recon_loss:0.169
+INFO:root:Epoch:[1]-[2/5] --> d_loss: 0.000, g_loss:0.159, g_recon_loss:0.159
+INFO:root:Epoch:[1]-[3/5] --> d_loss: 0.000, g_loss:0.141, g_recon_loss:0.141
+INFO:root:Epoch:[1]-[4/5] --> d_loss: 0.000, g_loss:0.128, g_recon_loss:0.128
+INFO:root:Epoch:[2]-[0/5] --> d_loss: 0.000, g_loss:0.119, g_recon_loss:0.119
+INFO:root:Epoch:[2]-[1/5] --> d_loss: 0.000, g_loss:0.100, g_recon_loss:0.100
+INFO:root:Epoch:[2]-[2/5] --> d_loss: 0.000, g_loss:0.092, g_recon_loss:0.092
+INFO:root:Epoch:[2]-[3/5] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[2]-[4/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[3]-[0/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[3]-[1/5] --> d_loss: 46.973, g_loss:0.067, g_recon_loss:0.067
+INFO:root:Epoch:[3]-[2/5] --> d_loss: 0.000, g_loss:0.067, g_recon_loss:0.067
+INFO:root:Epoch:[3]-[3/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[3]-[4/5] --> d_loss: 0.000, g_loss:0.066, g_recon_loss:0.066
+INFO:root:Epoch:[4]-[0/5] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[4]-[1/5] --> d_loss: 0.000, g_loss:0.074, g_recon_loss:0.074
+INFO:root:Epoch:[4]-[2/5] --> d_loss: 0.000, g_loss:0.064, g_recon_loss:0.064
+INFO:root:Epoch:[4]-[3/5] --> d_loss: 0.000, g_loss:0.065, g_recon_loss:0.065
+INFO:root:Epoch:[4]-[4/5] --> d_loss: 0.000, g_loss:0.072, g_recon_loss:0.072
+INFO:root:Epoch:[5]-[0/5] --> d_loss: 0.000, g_loss:0.066, g_recon_loss:0.066
+INFO:root:Epoch:[5]-[1/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[5]-[2/5] --> d_loss: 0.000, g_loss:0.064, g_recon_loss:0.064
+INFO:root:Epoch:[5]-[3/5] --> d_loss: 0.000, g_loss:0.070, g_recon_loss:0.070
+INFO:root:Epoch:[5]-[4/5] --> d_loss: 0.000, g_loss:0.073, g_recon_loss:0.073
+INFO:root:Epoch:[6]-[0/5] --> d_loss: 0.000, g_loss:0.071, g_recon_loss:0.071
+INFO:root:Epoch:[6]-[1/5] --> d_loss: 0.000, g_loss:0.064, g_recon_loss:0.064
+INFO:root:Epoch:[6]-[2/5] --> d_loss: 0.000, g_loss:0.063, g_recon_loss:0.063
+INFO:root:Epoch:[6]-[3/5] --> d_loss: 0.000, g_loss:0.065, g_recon_loss:0.065
+INFO:root:Epoch:[6]-[4/5] --> d_loss: 0.000, g_loss:0.069, g_recon_loss:0.069
+INFO:root:Epoch:[7]-[0/5] --> d_loss: 0.000, g_loss:0.068, g_recon_loss:0.068
+INFO:root:Epoch:[7]-[1/5] --> d_loss: 21.694, g_loss:192.819, g_recon_loss:192.819
+INFO:root:Epoch:[7]-[2/5] --> d_loss: 81.093, g_loss:119.359, g_recon_loss:119.359
+INFO:root:Epoch:[7]-[3/5] --> d_loss: 0.000, g_loss:1.913, g_recon_loss:1.913
+INFO:root:Epoch:[7]-[4/5] --> d_loss: 0.000, g_loss:1.099, g_recon_loss:1.099
+INFO:root:Epoch:[8]-[0/5] --> d_loss: 0.000, g_loss:0.524, g_recon_loss:0.524
+INFO:root:Epoch:[8]-[1/5] --> d_loss: 0.000, g_loss:0.234, g_recon_loss:0.234
+INFO:root:Epoch:[8]-[2/5] --> d_loss: 6.286, g_loss:0.151, g_recon_loss:0.151
+INFO:root:Epoch:[8]-[3/5] --> d_loss: 28.401, g_loss:0.104, g_recon_loss:0.104
+INFO:root:Epoch:[8]-[4/5] --> d_loss: 0.000, g_loss:0.103, g_recon_loss:0.103
+INFO:root:Epoch:[9]-[0/5] --> d_loss: 0.000, g_loss:0.100, g_recon_loss:0.100
+INFO:root:Epoch:[9]-[1/5] --> d_loss: 0.000, g_loss:0.099, g_recon_loss:0.099
+INFO:root:Epoch:[9]-[2/5] --> d_loss: 0.000, g_loss:0.097, g_recon_loss:0.097
+INFO:root:Epoch:[9]-[3/5] --> d_loss: 0.000, g_loss:0.096, g_recon_loss:0.096
+INFO:root:Epoch:[9]-[4/5] --> d_loss: 0.000, g_loss:0.097, g_recon_loss:0.097
